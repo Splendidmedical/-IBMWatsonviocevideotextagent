@@ -1,0 +1,44 @@
+{
+    "telemetry.machineId": "45dc3fa4-6aa7-42e6-b5aa-2619bbf4be8c",
+    "theme": "vs",
+    "themeBackground": "#ffffff",
+    "pickerWorkingDir": "C:\\Users\\splen\\AppData\\Roaming\\Code",
+    "openedPathsList": {
+        "workspaces2": [
+            {
+                "id": "c916142807884ba5d9c72b80218b4ab6",
+                "configPath": "c:\\Users\\splen\\AppData\\Roaming\\Code\\B.code-workspace"
+            },
+            "file:///c%3A/Users/splen/Downloads/%23IBMWatsonVoiceMessengerVideoTextAgent/.vscode",
+            "file:///c%3A/Users/splen/Downloads/%23IBMWatsonVoiceMessengerVideoTextAgent",
+            "file:///c%3A/Program%20Files%20%28x86%29/Microsoft%20Visual%20Studio%2010.0",
+            "file:///c%3A/Users/splen/OneDrive/Pictures",
+            "file:///c%3A/Program%20Files%20%28x86%29/Hewlett-Packard/HP%20Support%20Framework/Resources",
+            "file:///c%3A/Users/splen/Documents/Visual%20Studio%202015/SQL%20Server%20Scripts2",
+            "file:///c%3A/%23IBMWatsonvoicevideotextserviceagent",
+            "file:///c%3A/Users/splen/Documents/Visual%20Studio%202015/A1/ItemTemplates",
+            "file:///c%3A/Users/splen/Documents/Visual%20Studio%202015/A1/ProjectTemplates",
+            "file:///c%3A/Users/splen/Documents/GitHub"
+        ],
+        "files2": [
+            "file:///c%3A/Users/splen/AppData/Local/GitHubDesktop/GitHubDesktop.exe"
+        ]
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "workspace": {
+                "id": "c916142807884ba5d9c72b80218b4ab6",
+                "configPath": "c:\\Users\\splen\\AppData\\Roaming\\Code\\B.code-workspace"
+            },
+            "backupPath": "C:\\Users\\splen\\AppData\\Roaming\\Code\\Backups\\c916142807884ba5d9c72b80218b4ab6",
+            "uiState": {
+                "mode": 0,
+                "x": -8,
+                "y": -8,
+                "width": 1382,
+                "height": 744
+            }
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\splen\\Documents\\Visual Studio 2015\\SQL Server Scripts2"
+		},
+		{
+			"path": "C:\\Users\\splen\\Documents\\Visual Studio 2015\\A1"
+		},
+		{
+			"path": "C:\\Users\\splen\\Documents\\Visual Studio 2015\\Backup Files"
+		},
+		{
+			"path": "C:\\Users\\splen\\Documents\\Visual Studio 2015\\Code Snippets"
+		},
+		{
+			"path": "C:\\Users\\splen\\Documents\\Visual Studio 2015\\Settings"
+		},
+		{
+			"path": "C:\\Users\\splen\\Documents\\Visual Studio 2015\\SQL Server Scripts1"
+		},
+		{
+			"path": "C:\\Users\\splen\\Documents\\Visual Studio 2015\\SQL Server Scripts3"
+		}
+	],
+	"settings": {
+		"search.usePCRE2": true,
+		"files.exclude": {
+			"Games": true
+		},
+		"files.autoSave": "onFocusChange",
+		"editor.mouseWheelZoom": true,
+		"editor.parameterHints.cycle": true,
+		"editor.renderControlCharacters": true
+	}
+}
